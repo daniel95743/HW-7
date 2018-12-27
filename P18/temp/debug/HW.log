@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+d:\ntut\programing\107360210_邱品翰\p18\source\main.c(11): warning C4566: 由通用字元名稱 '\u202A' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\ntut\programing\107360210_邱品翰\p18\source\main.c(12): warning C4566: 由通用字元名稱 '\u202A' 表示的字元，無法在目前的字碼頁中表示 (950)
+d:\ntut\programing\107360210_邱品翰\p18\source\main.c(16): warning C4473: 'fscanf_s' : 傳遞給格式字串的引數不足
+  d:\ntut\programing\107360210_邱品翰\p18\source\main.c(16): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  d:\ntut\programing\107360210_邱品翰\p18\source\main.c(16): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  d:\ntut\programing\107360210_邱品翰\p18\source\main.c(16): note: 此引數可用為緩衝區大小
+  HW.vcxproj -> D:\NTUT\programing\107360210_邱品翰\P18\HW\HW\..\..\temp\debug\HW.exe
